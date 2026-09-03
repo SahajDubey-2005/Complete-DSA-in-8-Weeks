@@ -1,13 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColor_list=0,5,15,20,30,40&height=210&section=header&text=Complete%20DSA%20in%208%20Weeks&fontSize=34&fontColor=00ff66&fontAlignY=38&desc=Mastering%20Core%20Data%20Structures%20•%20Algorithms%20•%20LeetCode%20Streak&descSize=14&descAlignY=62&animation=scaleIn" width="100%" />
+<div align="center">
 
-[![Java](https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
-[![LeetCode](https://img.shields.io/badge/Platform-LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![Challenge](https://img.shields.io/badge/Challenge-8%20Weeks%20Intensive-success?style=for-the-badge)](https://github.com/)
-[![Status](https://img.shields.io/badge/Status-Active%20Streak-blue?style=for-the-badge)](https://github.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
+```c
+#include <stdio.h>
+#include <stdlib.h>
 
+// Author: Sahaj Dubey (The Systems Hacker)
+// Goal: Hardcore Mastery of Data Structures & Algorithms (DSA)
+// Status: 0_DAYS_REMAINING // Challenge Completed
+
+int main() {
+    const char* welcome_msg = "[SYSTEM_STARTUP] Complete DSA in 8 Weeks :: Initialized";
+    printf("\e[1;32m%s\e[0m\n", welcome_msg);
+
+    printf("--------------------------------------------------\n");
+    printf(">> Week[01] -> Arrays & Hashing     :: COMPLETED\n");
+    printf(">> Week[02] -> Sorting & Searching   :: COMPLETED\n");
+    printf(">> Week[03] -> Strings               :: COMPLETED\n");
+    printf(">> Week[04] -> Linked List           :: COMPLETED\n");
+    printf(">> Week[05] -> Stacks & Queues       :: COMPLETED\n");
+    printf(">> Week[06] -> Trees                 :: COMPLETED\n");
+    printf(">> Week[07] -> Recursion & Backtrack :: COMPLETED\n");
+    printf(">> Week[08] -> Dynamic Programming   :: COMPLETED\n");
+    printf("--------------------------------------------------\n");
+
+    return EXIT_SUCCESS;
+}
 </div>
 
 ---
